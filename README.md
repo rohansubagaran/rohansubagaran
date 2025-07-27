@@ -24,7 +24,6 @@ Currently exploring opportunities in **quantitative finance** and **consulting**
 ---
 
 ## 🎯 Goals
-- Break into **quantitative finance** or **strategy consulting**
 - Master full-stack software engineering
 - Build open-source tools for Malaysian users
 
