@@ -1,6 +1,6 @@
 # Hi there 👋
-
-I'm **Rohan Subagaran**, a BSc Mathematics and Economics student, passionate about building software that helps everyday Malaysians. 🚀  
+I'm **Rohan Subagaran**, a BSc Mathematics and Economics student, passionate about building software that helps everyday people. 🚀
+  
 Currently exploring opportunities in **quantitative finance** and **consulting**, while developing my expertise in **computer science** and **software engineering**.
 
 ---
@@ -16,7 +16,9 @@ Currently exploring opportunities in **quantitative finance** and **consulting**
 ## ⚡ What I'm Interested In
 - 🧮 Data, numbers, and mathematical modeling
 - 💻 Creating apps/tools for real-world impact
+- 🧠 Quantum computing and the mathematical underpinnings of modern computation (MCPs)
 - 🤖 Generative AI in software and productivity
+- 🏛️ Politics and philosophy—the arts of reasoning, society, and thinking deeply
 - 🌱 Always learning—especially about tech that helps Malaysia grow
 
 ---
@@ -28,7 +30,4 @@ Currently exploring opportunities in **quantitative finance** and **consulting**
 
 ---
 
-
-
-_“Building the future, one algorithm at a time.”_
-
+_"Building the future, one algorithm at a time."_
