@@ -1,14 +1,14 @@
 # Hi there 👋
 I'm **Rohan Subagaran**, a BSc Mathematics and Economics student, passionate about building software that helps everyday people. 🚀
-  
-Currently exploring opportunities in **quantitative finance** and **consulting**, while developing my expertise in **computer science** and **software engineering**.
+
+Incoming Management Consultant in APAC
 
 ---
 
 ## 🌏 About Me
 - 📍 Based in London
 - 🎓 Math & Econ @ LSE
-- 💡 Interested in quant, consulting, and building impactful tech
+- 💡 Interested in enterprise technology, consulting, and building impactful tech
 - 🛠️ Learning all I can about software creation & emerging technologies
 
 ---
